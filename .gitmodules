@@ -1,0 +1,60 @@
+[submodule "libs/vertico"]
+	path = libs/vertico
+	url = https://github.com/minad/vertico.git
+[submodule "libs/marginalia"]
+	path = libs/marginalia
+	url = https://github.com/minad/marginalia.git
+[submodule "libs/embark"]
+	path = libs/embark
+	url = https://github.com/oantolin/embark.git
+[submodule "libs/consult"]
+	path = libs/consult
+	url = https://github.com/minad/consult.git
+[submodule "libs/lazy-load"]
+	path = libs/lazy-load
+	url = https://github.com/manateelazycat/lazy-load.git
+[submodule "libs/orderless"]
+	path = libs/orderless
+	url = https://github.com/oantolin/orderless.git
+[submodule "libs/yasnippet"]
+	path = libs/yasnippet
+	url = https://cdn.moran233.xyz/https://github.com/joaotavora/yasnippet.git
+[submodule "libs/projectle"]
+	path = libs/projectle
+	url = https://cdn.moran233.xyz/https://github.com/bbatsov/projectile.git
+[submodule "libs/yasnippet-snippets"]
+	path = libs/yasnippet-snippets
+	url = https://cdn.moran233.xyz/https://github.com/AndreaCrotti/yasnippet-snippets.git
+[submodule "libs/magit"]
+	path = libs/magit
+	url = https://cdn.moran233.xyz/https://github.com/magit/magit.git
+[submodule "libs/with-editor"]
+	path = libs/with-editor
+	url = https://cdn.moran233.xyz/https://github.com/magit/with-editor.git
+[submodule "libs/transient"]
+	path = libs/transient
+	url = https://cdn.moran233.xyz/https://github.com/magit/transient.git
+[submodule "libs/llama"]
+	path = libs/llama
+	url = https://cdn.moran233.xyz/https://github.com/tarsius/llama.git
+[submodule "libs/web-mode"]
+	path = libs/web-mode
+	url = https://cdn.moran233.xyz/https://github.com/fxbois/web-mode.git
+[submodule "libs/js2-mode"]
+	path = libs/js2-mode
+	url = https://cdn.moran233.xyz/https://github.com/mooz/js2-mode.git
+[submodule "libs/markdown-mode"]
+	path = libs/markdown-mode
+	url = https://cdn.moran233.xyz/https://github.com/jrblevin/markdown-mode.git
+[submodule "libs/dirvish"]
+	path = libs/dirvish
+	url = https://cdn.moran233.xyz/https://github.com/alexluigit/dirvish.git
+[submodule "libs/edit-indirect"]
+	path = libs/edit-indirect
+	url = https://cdn.moran233.xyz/https://github.com/Fanael/edit-indirect.git
+[submodule "libs/visual-fill-column"]
+	path = libs/visual-fill-column
+	url = https://codeberg.org/joostkremers/visual-fill-column.git
+[submodule "libs/flycheck"]
+	path = libs/flycheck
+	url = https://firewall.lxstd.org/https://github.com/flycheck/flycheck.git
