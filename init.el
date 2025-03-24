@@ -34,7 +34,7 @@
         ;; 继续递归搜索子目录
         (add-subdirs-to-load-path subdir-path)))))
 
-(add-subdirs-to-load-path "~/.yihujiua-emacs-config")
+(add-subdirs-to-load-path "~/.emacs.d")
 
 ;; Platfrom
 (when (eq system-type 'w32)
